@@ -1,0 +1,6 @@
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\bin\Debug\Abs.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\bin\Debug\Abs.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\obj\Debug\Abs.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\obj\Debug\Abs.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\obj\Debug\Abs.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\Abs\obj\Debug\Abs.pdb

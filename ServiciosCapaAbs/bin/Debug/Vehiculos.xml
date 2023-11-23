@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehiculos>
+    <Vehiculo>
+        <Codigo>1</Codigo>
+        <Marca>Toyota</Marca>
+        <Modelo>Corolla</Modelo>
+        <Patente>ABC123</Patente>
+        <Km>50000</Km>
+        <Categoria>Auto</Categoria>
+    </Vehiculo>
+    <Vehiculo>
+        <Codigo>2</Codigo>
+        <Marca>Ford</Marca>
+        <Modelo>Explorer</Modelo>
+        <Patente>XYZ789</Patente>
+        <Km>80000</Km>
+        <Categoria>SUV</Categoria>
+    </Vehiculo>
+    <Vehiculo>
+        <Codigo>3</Codigo>
+        <Marca>Chevrolet</Marca>
+        <Modelo>S10</Modelo>
+        <Patente>DEF456</Patente>
+        <Km>60000</Km>
+        <Categoria>Camioneta</Categoria>
+    </Vehiculo>
+    <Vehiculo>
+        <Codigo>4</Codigo>
+        <Marca>Mercedes-Benz</Marca>
+        <Modelo>Actros</Modelo>
+        <Patente>GHI789</Patente>
+        <Km>120000</Km>
+        <Categoria>Camión</Categoria>
+    </Vehiculo>
+    <Vehiculo>
+        <Codigo>5</Codigo>
+        <Marca>Honda</Marca>
+        <Modelo>Civic</Modelo>
+        <Patente>JKL012</Patente>
+        <Km>45000</Km>
+        <Categoria>Auto</Categoria>
+    </Vehiculo>
+</Vehiculos>

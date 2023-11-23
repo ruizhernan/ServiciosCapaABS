@@ -1,0 +1,13 @@
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\BLL.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\BLL.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\Abs.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\BE.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\MPP.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\Abs.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\BE.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\bin\Debug\MPP.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\obj\Debug\BLL.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BLL\obj\Debug\BLL.pdb

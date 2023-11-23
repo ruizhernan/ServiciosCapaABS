@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servicios>
+  <Servicio>
+    <Fecha>2023-11-21</Fecha>
+    <Cliente>
+      <Nombre>Probar</Nombre>
+      <Apellido>Probar</Apellido>
+      <DNI>3741</DNI>
+      <FechaNac>2023-11-21</FechaNac>
+      <Mail>qwe@qweqwe</Mail>
+    </Cliente>
+    <Aceite>Semi</Aceite>
+    <LitrosAceite>3</LitrosAceite>
+    <Precio>10800.00</Precio>
+  </Servicio>
+  <ServicioPremium>
+    <Fecha>2023-11-21</Fecha>
+    <Cliente>
+      <Nombre>Probar</Nombre>
+      <Apellido>Probar</Apellido>
+      <DNI>3741</DNI>
+      <FechaNac>2023-11-21</FechaNac>
+      <Mail>qwe@qweqwe</Mail>
+    </Cliente>
+    <Aceite>Semi</Aceite>
+    <LitrosAceite>3</LitrosAceite>
+    <Precio>9600.00</Precio>
+    <Filtro>true</Filtro>
+  </ServicioPremium>
+  <Servicio>
+    <Fecha>2023-11-21</Fecha>
+    <Cliente>
+      <Nombre>testM2</Nombre>
+      <Apellido>Mail2</Apellido>
+      <DNI>12312312</DNI>
+      <FechaNac>2023-11-21</FechaNac>
+      <Mail>qweq@gmail.com</Mail>
+    </Cliente>
+    <Aceite>Semi</Aceite>
+    <LitrosAceite>3</LitrosAceite>
+    <Precio>10800.00</Precio>
+  </Servicio>
+</Servicios>

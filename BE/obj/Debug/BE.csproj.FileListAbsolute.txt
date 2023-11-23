@@ -1,0 +1,9 @@
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\bin\Debug\BE.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\bin\Debug\BE.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\bin\Debug\Abs.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\bin\Debug\Abs.pdb
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\obj\Debug\BE.dll
+C:\Users\Hernan\source\repos\2doParcialLUG\BE\obj\Debug\BE.pdb
