@@ -1,1 +1,3 @@
+Creado con .net y persistencia de datos en XML
+Es un CRUD aplicando 5 capas (BE, UI, BLL, MPP y ABS)
 
